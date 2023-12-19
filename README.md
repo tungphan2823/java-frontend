@@ -28,4 +28,5 @@ To run the application:
 
 1. Run `npm start`.
 2. Access the application via `localhost:3000` in your web browser.
+3. Make sure the backend runs first
 
